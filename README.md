@@ -29,7 +29,7 @@ Uses the BAXUS marketplace API to search for bottles and compare prices.
 - Endpoint: `GET https://services.baxus.co/api/search/listings?from=0&size=20&listed=true&q={query}`
 
 ## Demo Video
-[Insert Demo Video Link]
+[https://drive.google.com/file/d/1_j2sDPCUzAGAi6Nd9UDeuEu0R0jNpyq0/view?usp=drivesdk] 
 
 ## Contributing
 Fork the repository, make changes, and submit a pull request.
